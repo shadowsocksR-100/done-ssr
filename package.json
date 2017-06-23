@@ -52,7 +52,7 @@
     "leakage": "0.3.0-beta",
     "nock": "^9.0.11",
     "spawn-mochas": "^1.1.0",
-    "steal-stache": "^3.0.4",
+    "steal-stache": "3.0.7",
     "through2": "^2.0.1"
   },
   "dependencies": {
